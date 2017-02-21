@@ -7,6 +7,6 @@ import javax.swing.*;
  */
 public class StartPanel extends JPanel {
     public StartPanel() {
-
+        //aefbaefaeiufiaeuufbiauef
     }
 }
